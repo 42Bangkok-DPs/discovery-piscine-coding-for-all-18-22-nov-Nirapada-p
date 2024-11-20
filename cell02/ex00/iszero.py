@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 num=int(input("Enter Number"))
 if num > 0:
     print("This number is different from zero.")
